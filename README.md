@@ -56,4 +56,4 @@ Swift
     func didDismissImageGalleryView(at index: Int)
     
 # P.S.
-There is room for imporvement in this and all suggesstions and Pull Requests are welcome. I'll Include examples as soon as possible
+There is room for imporvement in this and all suggesstions and Pull Requests are welcome.
